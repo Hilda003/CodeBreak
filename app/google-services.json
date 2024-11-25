@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "497107081521",
+    "project_id": "codebreak-500d0",
+    "storage_bucket": "codebreak-500d0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497107081521:android:d577adc5345ec4ab3cf810",
+        "android_client_info": {
+          "package_name": "com.example.codebreak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQhEGPvyK5xfSxd-3i4cSKt9E37E_VfC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

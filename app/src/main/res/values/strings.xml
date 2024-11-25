@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CodeBreak</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="password">Password</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="hi_welcome_back">Hi, welcome back</string>
+    <string name="email">Email</string>
+    <string name="password_hint">******</string>
+    <string name="gmail_com">arunika@gmail.com</string>
+    <string name="logo">Logo</string>
+    <string name="agree_with_terms_conditions"><![CDATA[Agree with Terms & conditions]]></string>
+    <string name="sign_up">Sign Up</string>
+    <string name="fill_your_information_below">Fill your information below</string>
+    <string name="name_hint">Arunika</string>
+    <string name="already_have_an_account">already have an account?</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="algoritma_dasar">Algoritma Dasar</string>
+    <string name="_1h_30m">1h 30m</string>
+    <string name="home">Home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
